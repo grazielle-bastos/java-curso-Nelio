@@ -1,9 +1,11 @@
 ### IntelliJ IDEA ###
 *.iml
 .idea/
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+
+### Pastas de build do Java ###
+/out/
+bin/
+build/
 
 ### Eclipse ###
 .apt_generated
@@ -13,9 +15,6 @@ out/
 .settings
 .springBeans
 .sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
@@ -27,5 +26,6 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### Arquivos de sistema operacional ###
 .DS_Store
+Thumbs.db
