@@ -1,9 +1,9 @@
-package estruturaSequencial.tema03_entradaDados;
+package estruturaSequencial.tema03_entradaSaidaDados;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class entradaDados {
+public class entradaSaidaDadosMain {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in); //Associação do objeto Scanner ao teclado no modo console
