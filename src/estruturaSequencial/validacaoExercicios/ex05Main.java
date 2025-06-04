@@ -38,5 +38,7 @@ public class ex05Main {
 
         System.out.printf("Valor a pagar: R$ %.2f", custo_total);
 
+        sc.close();
+
     }
 }
