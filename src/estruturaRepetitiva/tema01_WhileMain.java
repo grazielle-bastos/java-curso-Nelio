@@ -2,7 +2,7 @@ package estruturaRepetitiva;
 
 import java.util.Scanner;
 
-public class tema01_EnquantoMain {
+public class tema01_WhileMain {
     public static void main(String[] args) {
         //Regra: Condição sendo verdadeira, executa e volta. E condição sendo falsa, pula fora do escopo condicional.
 

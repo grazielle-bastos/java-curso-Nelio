@@ -2,7 +2,7 @@ package estruturaRepetitiva.validacaoExercicios;
 
 import java.util.Scanner;
 
-public class testeMesaMain {
+public class testeMesaWhileMain {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
