@@ -1,4 +1,4 @@
-package entities;
+package POO.entities.shapes.staticMember;
 
 public class Triangle {
 

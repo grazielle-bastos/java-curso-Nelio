@@ -1,6 +1,6 @@
-package application;
+package POO.application.inventory;
 
-import entities.Product;
+import POO.entities.inventory.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

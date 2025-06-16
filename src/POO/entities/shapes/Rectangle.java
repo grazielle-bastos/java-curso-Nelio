@@ -1,4 +1,4 @@
-package entities;
+package POO.entities.shapes;
 
 public class Rectangle {
 

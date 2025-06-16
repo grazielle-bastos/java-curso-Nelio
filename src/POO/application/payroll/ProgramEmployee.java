@@ -1,6 +1,6 @@
-package application;
+package POO.application.payroll;
 
-import entities.Employee;
+import POO.entities.payroll.Employee;
 
 import java.util.Locale;
 import java.util.Scanner;

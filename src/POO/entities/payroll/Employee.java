@@ -1,4 +1,4 @@
-package entities;
+package POO.entities.payroll;
 
 public class Employee {
 

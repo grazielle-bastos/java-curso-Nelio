@@ -1,4 +1,4 @@
-package util;
+package POO.util.shapes_staticMember;
 
 public class Calculator {
 

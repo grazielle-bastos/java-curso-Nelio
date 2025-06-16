@@ -1,6 +1,6 @@
-package application;
+package POO.application.grades;
 
-import entities.Student;
+import POO.entities.grades.Student;
 
 import java.util.Locale;
 import java.util.Scanner;

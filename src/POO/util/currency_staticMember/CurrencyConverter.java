@@ -1,4 +1,4 @@
-package util;
+package POO.util.currency_staticMember;
 
 public class CurrencyConverter {
 

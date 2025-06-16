@@ -1,4 +1,4 @@
-package entities;
+package POO.entities.inventory;
 
 import java.util.Date;
 

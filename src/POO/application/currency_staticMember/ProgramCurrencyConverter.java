@@ -1,6 +1,6 @@
-package application;
+package POO.application.currency_staticMember;
 
-import util.CurrencyConverter;
+import POO.util.currency_staticMember.CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;

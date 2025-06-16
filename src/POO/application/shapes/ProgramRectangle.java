@@ -1,6 +1,6 @@
-package application;
+package POO.application.shapes;
 
-import entities.Rectangle;
+import POO.entities.shapes.Rectangle;
 
 import java.util.Locale;
 import java.util.Scanner;

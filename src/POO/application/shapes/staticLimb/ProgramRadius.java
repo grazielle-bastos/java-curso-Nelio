@@ -1,6 +1,6 @@
-package application;
+package POO.application.shapes.staticLimb;
 
-import util.Calculator;
+import POO.util.shapes_staticMember.Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;
